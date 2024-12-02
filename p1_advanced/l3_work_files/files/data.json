@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Book1",
+        "author": "AuthNoName1",
+        "release_date": 2024,
+        "price": 45
+    },
+    {
+        "name": "Book2",
+        "author": "AuthNoName2",
+        "release_date": 2023,
+        "price": 40
+    },
+    {
+        "name": "Book3",
+        "author": "AuthNoName3",
+        "release_date": 2022,
+        "price": 30
+    },
+    {
+        "name": "Book4",
+        "author": "AuthNoName4",
+        "release_date": 2021,
+        "price": 15
+    }
+]

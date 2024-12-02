@@ -1,0 +1,1 @@
+Error log: [Errno 2] No such file or directory: 'files/non_existent_file.txt'
